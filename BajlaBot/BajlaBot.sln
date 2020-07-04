@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BajlaBot", "BajlaBot.csproj", "{B28E428A-B8E1-4B16-9856-B6054224562C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28E428A-B8E1-4B16-9856-B6054224562C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28E428A-B8E1-4B16-9856-B6054224562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28E428A-B8E1-4B16-9856-B6054224562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28E428A-B8E1-4B16-9856-B6054224562C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D06062F-30D4-471B-9EA8-88DD3AF118A1}
+	EndGlobalSection
+EndGlobal
